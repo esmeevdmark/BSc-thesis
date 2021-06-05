@@ -3,7 +3,7 @@ This is the repository of the BSC thesis of Esmée van der Mark, Future Planet S
 
 This repository consists of multiple files. The most important one is the 'ExtendedTemperatureModel.py' file, which includes the Python code of my extended model. This file can be used to reproduce my figures which I used in my thesis as well. These figures are also available in this repository and they have the same numbering as in my thesis (Fig.3 - Fig.S3). 
 
-My code can be used in several ways. At the moment, the code is set with the default values of ERmax and c (Ermax = -0.43 and c = 0.005). If you want to recreate the results of Ermax = -0.43 or c = 0, you can change these values in the 'parameter and constants' section at the top op the file. 
+My code can be used in several ways. At the moment, the code is set with the default values of ERmax and c (Ermax = -0.43 and c = 0.005). If you want to recreate the results of Ermax = 0.0 or c = 0.0, you can change these values in the 'parameter and constants' section at the top op the file. 
 
 I have added a variable, called 'biomass_or_yield' , which you can also find in the 'parameter and constants' section, which you can change, ranging from numbers 0-3. This variable gives you the option which calculations you want to perform. These different calculations, for both low and high clupeid fishing mortalities (Fs) consists of:
 
