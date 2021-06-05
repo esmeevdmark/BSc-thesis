@@ -8,8 +8,11 @@ My code can be used in several ways. At the moment, the code is set with the def
 I have added a variable, called 'biomass_or_yield' , which you can also find in the 'parameter and constants' section, which you can change, ranging from numbers 0-3. This variable gives you the option which calculations you want to perform. These different calculations, for both low and high clupeid fishing mortalities (Fs) consists of:
 
 0 : Calculating biomass levels, with temperature as bifurcation parameter (integrated from low to high temperature), with high Fc value and default parameter values
+
 1 : Calculating biomass levels, with temperature as bifurcation parameter (integrated from high to low temperature), with high Fc value and default parameter values
+
 2 : Calculating biomass levels, with cod fishing mortality (Fc) as bifurcation parameter, default parameter values as well
+
 3 : Calculating mean annual yield (cod and clupeids), with Fc as bifurcation parameter, default parameter values
 
 Setting this variable to one of these numbers will thus have as effect that only the calculations will be done which you want to calculate. These calculations can be found at the 'simulation' section of the file. For every simulation, I store the results in arrays, so I can at the end store them in CSV files, which can be seen in the 'storing the data in CSV files section' at the bottom of the file. 
