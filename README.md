@@ -1,7 +1,7 @@
 # BSc thesis
 This is the repository of the BSC thesis of Esmée van der Mark, Future Planet Studies, University of Amsterdam (2021). The project consists of extending a multitrophic, size-structured, bioenergetics model of the fish community in the Baltic Sea with temperature dependent vital rates and parameters in the model. 
 
-This repository consists of multiple files. The most important one is the 'ExtendedTemperatureModel.py' file, which includes the Python code of my extended model. This file can be used to reproduce my figures which I used in my thesis as well. These figures are also available in this repository and they have the same numbering as in the thesis (Figure 3 - Figure S3). 
+This repository consists of multiple files. The most important one is the 'ExtendedTemperatureModel.py' file, which includes the Python code of my extended model. This file can be used to reproduce my figures which I used in my thesis as well. These figures are also available in this repository and they have the same numbering as in my thesis (Fig.3 - Fig.S3). 
 
 My code can be used in several ways. At the moment, the code is set with the default values of ERmax and c (Ermax = -0.43 and c = 0.005). If you want to recreate the results of Ermax = -0.43 or c = 0, you can change these values in the 'parameter and constants' section at the top op the file. 
 
