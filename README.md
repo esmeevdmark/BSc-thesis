@@ -17,6 +17,7 @@ Setting this variable to one of these numbers will thus have as effect that only
 These CSV files are then used in another Python file, called 'analysingResults.py', in which I have made the figures I used in my thesis. All the CSV files I have used for these figures are also available in this repository. There are 32 different CSV files and below I explain which I used for the different figures:
 
 Fig3:
+
 'results_low_clupeid_mortality_temp1'
 'results_low_clupeid_mortality_temp2'
 'results_low_clupeid_mortality_temp3'
@@ -27,16 +28,19 @@ Fig3:
 'results_high_clupeid_mortality_temp4'
 
 Fig4:
+
 'results_low_clupeid_mortality2' 
 'results_high_clupeid_mortality2'
 'results_high_clupeid_mortality_reverse'
 'results_low_clupeid_mortality_reverse'
 
 Fig5:
+
 'results yield low cod'
 'results yield high cod'
 
 Fig6:
+
 'results_low_clupeid_mortality_temp1_Ermax0_2'
 'results_low_clupeid_mortality_temp2_Ermax0_2'
 'results_low_clupeid_mortality_temp3_Ermax0_2'
@@ -47,10 +51,12 @@ Fig6:
 'results_high_clupeid_mortality_temp4_Ermax0_2'
 
 FigS2:
+
 'results yield low clup'
 'results yield high clup'
 
 FigS3:
+
 'results_low_clupeid_mortality_temp1'
 'results_low_clupeid_mortality_temp2'
 'results_low_clupeid_mortality_temp3'
